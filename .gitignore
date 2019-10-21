@@ -71,14 +71,3 @@ nbdist/
 .log
 [Ll]og/
 [Ll]ogs/
-
-### properties file ###
-/src/main/resources/application.properties
-
-##File upload##
-##upload-dir/##
-##MQTT Temp dir##
-data/
-Cov-Sub_Pub-tcplocalhost1883/
-activemq-data/mapfiles
-"mapfiles"
