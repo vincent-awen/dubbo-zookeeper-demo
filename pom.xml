@@ -25,7 +25,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <curator-framework.version>4.2.0</curator-framework.version>
         <zookeeper.vesion>3.4.14</zookeeper.vesion>
-        <dubbo.version>2.7.3</dubbo.version>
+        <dubbo.version>2.7.13</dubbo.version>
         <spring-boot.version>2.2.0.RELEASE</spring-boot.version>
         <maven-site-plugin.version>3.8.2</maven-site-plugin.version>
     </properties>
